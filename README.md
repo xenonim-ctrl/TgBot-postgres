@@ -33,7 +33,7 @@
 
 <ol>
   <li>Клонируй репозиторий:
-    <pre><code>git clone https://github.com/xenonim-ctrl/Data-add-tgbot.git
+    <pre><code>git clone https://github.com/xenonim-ctrl/tg-bot-postgres.git
 cd python-db-bot</code></pre>
   </li>
 
@@ -64,5 +64,4 @@ DATABASE_URL=postgresql://user:password@localhost:5432/yourdb
 <h2>📌 Примечание</h2>
 <p>
 Этот проект — отличная база для освоения интеграции <strong>чат-бота</strong> и <strong>PostgreSQL</strong>.  
-Если хочешь — могу сгенерировать готовые примеры обработчиков команд (handlers.py) или шаблон queries.py под <code>psycopg2</code> / <code>asyncpg</code>.
 </p>
