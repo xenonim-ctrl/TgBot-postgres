@@ -33,7 +33,7 @@
 
 <ol>
   <li>Клонируй репозиторий:
-    <pre><code>git clone https://github.com/xenonim-ctrl/tg-bot-postgres.git
+    <pre><code>git clone https://github.com/xenonim-ctrl/TgBot-postgres.git
 cd python-db-bot</code></pre>
   </li>
 
